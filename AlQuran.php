@@ -1,6 +1,6 @@
 <?php
 
-class Al_quran
+class AlQuran
 {
     private function tampilkan_harga ($harga)
     {
@@ -14,6 +14,6 @@ class Al_quran
     }
 }
 
-$Al_quran = new Al_quran();
+$Al_quran = new AlQuran();
 
-$Al_quran->bimsalabim_('lima_puluh_ribu');
+$Al_quran->bimsalabim__('lima_puluh_ribu');
